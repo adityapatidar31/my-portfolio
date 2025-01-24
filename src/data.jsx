@@ -148,10 +148,10 @@ export const projects = [
   },
   {
     id: nanoid(),
-    img: "https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800",
-    url: "https://react-projects.netlify.app/",
-    github: "https://github.com/john-smilga",
-    title: "third project",
-    text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.",
+    img: "cocktail-compass.png",
+    url: "https://cocktail-compass.vercel.app/",
+    github: "https://github.com/adityapatidar31/cocktail-compass-react",
+    title: "Cocktail Compass",
+    text: "Main Library: react, axios, tanstack-query, react-router-dom Description: A React-based cocktail search app offering an intuitive search feature to explore cocktails. Built with Axios for API requests, React Router for navigation, TanStack Query for state management, React Toastify for notifications, and Styled Components for elegant styling.",
   },
 ];
