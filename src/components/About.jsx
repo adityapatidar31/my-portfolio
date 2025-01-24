@@ -8,10 +8,11 @@ const About = () => {
         <article>
           <SectionTitle text="code and coffee" />
           <p className="text-slate-600 mt-8 leading-loose">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro
-            omnis exercitationem tempora, aliquid deleniti tenetur vero esse
-            praesentium eaque dicta fugiat? Molestiae expedita, nulla neque
-            error porro sint distinctio possimus!
+            Hello There, I am undergraduate at IIIT Bhopal (graduating in 2025)
+            with a strong foundation in data structure and algorithms and full
+            stack web development. I have hands-on experience in building robust
+            and scalable application using technologies like Next-js React,
+            Tailwind ,Prisma, MongoDB, java, spring boot and microservices
           </p>
         </article>
       </div>
