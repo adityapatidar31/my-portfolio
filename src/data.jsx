@@ -132,19 +132,19 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
-    img: "image.png",
+    img: "color-generator.png",
     url: "https://color-generator-small-react.vercel.app/",
-    github: "https://github.com/john-smilga",
+    github: "https://github.com/adityapatidar31/color-generator-small-react/",
     title: "Color Generator",
     text: "main library: react, react-toastify, values.js \n Description: A React app that generates 10 tints and 10 shades of any input color, providing an intuitive color exploration experience.",
   },
   {
     id: nanoid(),
-    img: "https://images.pexels.com/photos/2148222/pexels-photo-2148222.jpeg?auto=compress&cs=tinysrgb&w=800",
-    url: "https://react-projects.netlify.app/",
-    github: "https://github.com/john-smilga",
-    title: "second project",
-    text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.",
+    img: "unsplash-images.png",
+    url: "https://search-image-small.vercel.app/",
+    github: "https://github.com/adityapatidar31/search-image-small",
+    title: "Search unsplash Images",
+    text: "Main Library: react, axios, tanstack-query \n Description: An image search React app using Axios and TanStack Query, fetching 10 images from Unsplash based on the entered name.",
   },
   {
     id: nanoid(),
