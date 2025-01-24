@@ -170,4 +170,14 @@ export const projects = [
     description:
       "Store is a sleek e-commerce app built with Next.js, Tailwind CSS, and TypeScript. It delivers seamless shopping experiences, modern UI, fast performance, and robust functionality for users and businesses alike.",
   },
+  {
+    id: nanoid(),
+    img: "stay-booker.png",
+    url: "https://stay-booker.vercel.app/",
+    github: "https://github.com/adityapatidar31/stay-booker-next-js-14/",
+    title: "Stay-booker",
+    text: "Main Library: next-js, tailwind, typescript, leaflet, prisma",
+    description:
+      "Stay-Booker is a Next.js-based app to book rooms. It uses Prisma, Leaflet, and Tailwind, offering seamless property booking with advanced category filtering for a tailored user experience.",
+  },
 ];
