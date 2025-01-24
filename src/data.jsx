@@ -160,4 +160,14 @@ export const projects = [
     description:
       "A React cocktail search app with a user-friendly search feature, leveraging Axios, React Router, TanStack Query, React Toastify, and Styled Components for efficient API handling, routing, notifications, and styling.",
   },
+  {
+    id: nanoid(),
+    img: "store.png",
+    url: "https://store-nextjs-14-blush.vercel.app/",
+    github: "https://github.com/adityapatidar31/store-nextjs-14",
+    title: "Store",
+    text: "Main Library: next-js, tailwind, typescript, zod, use-debounce",
+    description:
+      "Store is a sleek e-commerce app built with Next.js, Tailwind CSS, and TypeScript. It delivers seamless shopping experiences, modern UI, fast performance, and robust functionality for users and businesses alike.",
+  },
 ];
