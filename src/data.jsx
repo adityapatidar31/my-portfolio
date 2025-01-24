@@ -136,7 +136,9 @@ export const projects = [
     url: "https://color-generator-small-react.vercel.app/",
     github: "https://github.com/adityapatidar31/color-generator-small-react/",
     title: "Color Generator",
-    text: "main library: react, react-toastify, values.js \n Description: A React app that generates 10 tints and 10 shades of any input color, providing an intuitive color exploration experience.",
+    text: "main library: react, react-toastify, values.js",
+    description:
+      "A React color generator app allowing users to input a color and generate 10 tints and 10 shades, offering a visually engaging and intuitive way to explore color variations.",
   },
   {
     id: nanoid(),
@@ -144,7 +146,9 @@ export const projects = [
     url: "https://search-image-small.vercel.app/",
     github: "https://github.com/adityapatidar31/search-image-small",
     title: "Search unsplash Images",
-    text: "Main Library: react, axios, tanstack-query \n Description: An image search React app using Axios and TanStack Query, fetching 10 images from Unsplash based on the entered name.",
+    text: "Main Library: react, axios, tanstack-query",
+    description:
+      "A React-based image search app enabling users to find images by name. It fetches 10 images from Unsplash using Axios, ensures efficient state management with TanStack Query, and offers a seamless, responsive interface for a smooth user experience.",
   },
   {
     id: nanoid(),
@@ -152,6 +156,8 @@ export const projects = [
     url: "https://cocktail-compass.vercel.app/",
     github: "https://github.com/adityapatidar31/cocktail-compass-react",
     title: "Cocktail Compass",
-    text: "Main Library: react, axios, tanstack-query, react-router-dom Description: A React-based cocktail search app offering an intuitive search feature to explore cocktails. Built with Axios for API requests, React Router for navigation, TanStack Query for state management, React Toastify for notifications, and Styled Components for elegant styling.",
+    text: "Main Library: react, axios, tanstack-query, react-router-dom",
+    description:
+      "A React cocktail search app with a user-friendly search feature, leveraging Axios, React Router, TanStack Query, React Toastify, and Styled Components for efficient API handling, routing, notifications, and styling.",
   },
 ];
