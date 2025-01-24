@@ -132,11 +132,11 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
-    img: "https://images.pexels.com/photos/326503/pexels-photo-326503.jpeg?auto=compress&cs=tinysrgb&w=800",
-    url: "https://react-projects.netlify.app/",
+    img: "image.png",
+    url: "https://color-generator-small-react.vercel.app/",
     github: "https://github.com/john-smilga",
-    title: "first project",
-    text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.",
+    title: "Color Generator",
+    text: "main library: react, react-toastify, values.js \n Description: A React app that generates 10 tints and 10 shades of any input color, providing an intuitive color exploration experience.",
   },
   {
     id: nanoid(),
